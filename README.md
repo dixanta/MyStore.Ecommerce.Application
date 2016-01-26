@@ -1,0 +1,1 @@
+# MyStore.Ecommerce.Application
